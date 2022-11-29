@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599455104901",
+    "project_id": "fir-auth-demo-61160",
+    "storage_bucket": "fir-auth-demo-61160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599455104901:android:6a88414fb0f1f749740eec",
+        "android_client_info": {
+          "package_name": "com.github.AndrewAlbizati.authentication_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599455104901-jb27i7u7nqlh29q1mnolq8dplk6v4f2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHgWry-kpwLAt262qfF-fGIk5Trwsr33Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599455104901-jb27i7u7nqlh29q1mnolq8dplk6v4f2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
